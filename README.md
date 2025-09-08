@@ -28,10 +28,10 @@ This honeypot:
 ```
 CyberAttack-Honeypot/
 │
-├── honeypot.py # Main Python SSH honeypot script
-├── Final_Project_Presentation.pptx # Project presentation slides
+├── honeypot.py 
+├── Final_Project_Presentation.pptx 
 ├── key # SSH private key (generated locally)
-└── README.md # Project documentation
+└── README.md 
 ```
 ---
 
